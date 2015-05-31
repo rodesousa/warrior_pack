@@ -1,0 +1,6 @@
+prePath=/home/rds/workspace/
+
+path=sbt-workspace/editorWarrior/src/main/resources/map/map
+img=/home/rds/workspace/sbt-workspace/map.jpg
+key=map1
+zoneWalking=0
